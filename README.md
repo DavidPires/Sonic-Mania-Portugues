@@ -9,4 +9,4 @@
 David Pires - tradução das strings e desenho dos sprites
 
 ## Observação:
-Há algumas coisas (~10%) que não foram traduzidas e ficaram em Espanhol.
+Há algumas coisas (~5-10%) que não foram traduzidas e ficaram em Espanhol.
