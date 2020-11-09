@@ -2,7 +2,7 @@
 
 ## Instalação:
 
-1. Transferir o ficheiro Data.rsdk 
+1. Transferir o ficheiro Data.rsdk em https://gofile.io/d/sbhM4t
 2. Instalar na raíz do diretório do jogo (geralmente em C:\Programas (x86)\Steam\steamapps\common\Sonic Mania)
 
 ## Crédito:
